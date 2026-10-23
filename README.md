@@ -4,7 +4,7 @@ I'm interested in solving complex problems, understanding how systems work, and 
 
 *Driven by curiosity. Committed to continuous growth.* 🚀
 
-## 🛠️ Skills
+## 🛠️ My Skills
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
